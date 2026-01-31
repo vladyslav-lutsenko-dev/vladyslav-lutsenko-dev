@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Vlad 👋
 
-<!--
-**vladyslav-lutsenko-dev/vladyslav-lutsenko-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer (React) | JavaScript Developer
 
-Here are some ideas to get you started:
+🛠 Tech stack:
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Vite
+- HTML, CSS, Tailwind.css
+- Git
+- Node.js
+- Express
+- Basic SQL
+- MongoDB
+- Rest API
+- Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured projects:
+- Modivo Lite — React e-commerce app
+- React Shop — product catalog with filters
+
+📫 Contact:
+- Email: valdyslav.lutsenko.2001@gmail.com
+- LinkedIn: www.linkedin.com/in/vladyslav-lutsenko-dev
